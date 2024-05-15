@@ -18,17 +18,17 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    
-https://github.com/SanjanaSingh1818/AI_Project.git
+   https://github.com/SanjanaSingh1818/AI_Project.git
 
 
 3. Navigate into the project directory:
    
-cd tic-tac
+   cd tic-tac
 
 
 4. Run the Python script:
 
-python tic_tac_toe.py
+   python tic_tac_toe.py
 
 
 This will start the Tic Tac Toe game.
