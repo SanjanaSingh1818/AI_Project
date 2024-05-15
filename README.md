@@ -21,12 +21,12 @@ To run this project, follow these steps:
    https://github.com/SanjanaSingh1818/AI_Project.git
 
 
-3. Navigate into the project directory:
+2. Navigate into the project directory:
    
    cd tic-tac
 
 
-4. Run the Python script:
+3. Run the Python script:
 
    python tic_tac_toe.py
 
